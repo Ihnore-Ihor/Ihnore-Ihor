@@ -73,10 +73,6 @@ I'm a Software Engineering student passionate about building clean, efficient, a
 
 ---
 
-![Visitor Badge](https://visitcount.itsvg.in/api?id=Ihnore-Ihor&icon=0&color=1)
-
----
-
 ### 💰 Support Me
 
 If you enjoy my work or want to support future projects:
